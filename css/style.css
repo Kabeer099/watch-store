@@ -5,6 +5,7 @@
 }
 body{
     background-color: black !important;
+    overflow-x: hidden;
 }
 a .nav-item{
     float: left;
@@ -110,7 +111,7 @@ li{
 
 }
 .card1{
-    float: left;
+    /* float: left; */
     color: goldenrod;
     background-color: transparent;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -119,7 +120,7 @@ li{
 
 }
 .card2{
-    float: left;
+    /* float: left; */
     padding: 10px;
     color: goldenrod;
     background-color: transparent;
@@ -127,7 +128,7 @@ li{
    
 }
 .card3{
-    float: left;
+    /* float: left; */
     padding: 10px;
     color: goldenrod;
     background-color: transparent;
@@ -1218,7 +1219,7 @@ textarea.form-control {
     color: #fff !important;
   }
   .about hr{
-    margin-left: 175px;
+    margin-left: 30%;
     background-color: goldenrod !important;
     opacity: 1;
   }
