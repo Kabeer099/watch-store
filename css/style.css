@@ -467,7 +467,13 @@ li {
   clear: both;
   display: table;
 }
+.bg-image img{
+  height: 230px;
+}
 
+.dd-menu{
+  background: goldenrod;
+}
 .bg-white {
   background-color: #353530 !important;
 }
